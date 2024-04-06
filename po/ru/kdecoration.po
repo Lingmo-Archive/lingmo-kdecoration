@@ -1,0 +1,94 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Alexander Potashev <aspotashev@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-12 02:28+0200\n"
+"PO-Revision-Date: 2018-02-03 02:12+0300\n"
+"Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: decorationbutton.cpp:282
+#, kde-format
+msgid "Menu"
+msgstr "Меню"
+
+#: decorationbutton.cpp:284
+#, kde-format
+msgid "Application menu"
+msgstr "Меню приложения"
+
+#: decorationbutton.cpp:287
+#, kde-format
+msgid "On one desktop"
+msgstr "На одном рабочем столе"
+
+#: decorationbutton.cpp:289
+#, kde-format
+msgid "On all desktops"
+msgstr "На всех рабочих столах"
+
+#: decorationbutton.cpp:291
+#, kde-format
+msgid "Minimize"
+msgstr "Свернуть"
+
+#: decorationbutton.cpp:294
+#, kde-format
+msgid "Restore"
+msgstr "Восстановить"
+
+#: decorationbutton.cpp:296
+#, kde-format
+msgid "Maximize"
+msgstr "Распахнуть"
+
+#: decorationbutton.cpp:298
+#, kde-format
+msgid "Close"
+msgstr "Закрыть"
+
+#: decorationbutton.cpp:300
+#, kde-format
+msgid "Context help"
+msgstr "Контекстная справка"
+
+#: decorationbutton.cpp:303
+#, kde-format
+msgid "Unshade"
+msgstr "Развернуть из заголовка"
+
+#: decorationbutton.cpp:305
+#, kde-format
+msgid "Shade"
+msgstr "Свернуть в заголовок"
+
+#: decorationbutton.cpp:308
+#, kde-format
+msgid "Don't keep below"
+msgstr "Не поддерживать на заднем плане"
+
+#: decorationbutton.cpp:310
+#, kde-format
+msgid "Keep below"
+msgstr "Поддерживать на заднем плане"
+
+#: decorationbutton.cpp:313
+#, kde-format
+msgid "Don't keep above"
+msgstr "Не поддерживать поверх других"
+
+#: decorationbutton.cpp:315
+#, kde-format
+msgid "Keep above"
+msgstr "Поддерживать поверх других"

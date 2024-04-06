@@ -1,0 +1,95 @@
+# Lithuanian translations for kdecoration package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the kdecoration package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdecoration\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-12 02:28+0200\n"
+"PO-Revision-Date: 2019-07-30 23:07+0300\n"
+"Last-Translator: Moo\n"
+"Language-Team: lt\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
+"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: decorationbutton.cpp:282
+#, kde-format
+msgid "Menu"
+msgstr "Meniu"
+
+#: decorationbutton.cpp:284
+#, kde-format
+msgid "Application menu"
+msgstr "Programos meniu"
+
+#: decorationbutton.cpp:287
+#, kde-format
+msgid "On one desktop"
+msgstr "Viename darbalaukyje"
+
+#: decorationbutton.cpp:289
+#, kde-format
+msgid "On all desktops"
+msgstr "Visuose darbalaukiuose"
+
+#: decorationbutton.cpp:291
+#, kde-format
+msgid "Minimize"
+msgstr "Suskleisti"
+
+#: decorationbutton.cpp:294
+#, kde-format
+msgid "Restore"
+msgstr "Grąžinti iš suskleidimo"
+
+#: decorationbutton.cpp:296
+#, kde-format
+msgid "Maximize"
+msgstr "Išskleisti"
+
+#: decorationbutton.cpp:298
+#, kde-format
+msgid "Close"
+msgstr "Užverti"
+
+#: decorationbutton.cpp:300
+#, kde-format
+msgid "Context help"
+msgstr "Kontekstinė pagalba"
+
+#: decorationbutton.cpp:303
+#, kde-format
+msgid "Unshade"
+msgstr "Rodyti ne tik lango antraštės juostą"
+
+#: decorationbutton.cpp:305
+#, kde-format
+msgid "Shade"
+msgstr "Rodyti tik lango antraštės juostą"
+
+#: decorationbutton.cpp:308
+#, kde-format
+msgid "Don't keep below"
+msgstr "Nelaikyti apačioje"
+
+#: decorationbutton.cpp:310
+#, kde-format
+msgid "Keep below"
+msgstr "Laikyti apačioje"
+
+#: decorationbutton.cpp:313
+#, kde-format
+msgid "Don't keep above"
+msgstr "Nelaikyti viršuje"
+
+#: decorationbutton.cpp:315
+#, kde-format
+msgid "Keep above"
+msgstr "Laikyti viršuje"

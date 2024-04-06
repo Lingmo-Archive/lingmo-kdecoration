@@ -1,0 +1,93 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Tommi Nieminen <translator@legisign.org>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-12 02:28+0200\n"
+"PO-Revision-Date: 2018-02-23 19:33+0200\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: decorationbutton.cpp:282
+#, kde-format
+msgid "Menu"
+msgstr "Valikko"
+
+#: decorationbutton.cpp:284
+#, kde-format
+msgid "Application menu"
+msgstr "Sovellusvalikko"
+
+#: decorationbutton.cpp:287
+#, kde-format
+msgid "On one desktop"
+msgstr "Yhdellä työpöydällä"
+
+#: decorationbutton.cpp:289
+#, kde-format
+msgid "On all desktops"
+msgstr "Kaikilla työpöydillä"
+
+#: decorationbutton.cpp:291
+#, kde-format
+msgid "Minimize"
+msgstr "Pienennä"
+
+#: decorationbutton.cpp:294
+#, kde-format
+msgid "Restore"
+msgstr "Palauta"
+
+#: decorationbutton.cpp:296
+#, kde-format
+msgid "Maximize"
+msgstr "Suurenna"
+
+#: decorationbutton.cpp:298
+#, kde-format
+msgid "Close"
+msgstr "Sulje"
+
+#: decorationbutton.cpp:300
+#, kde-format
+msgid "Context help"
+msgstr "Kontekstiohje"
+
+#: decorationbutton.cpp:303
+#, kde-format
+msgid "Unshade"
+msgstr "Avaa rullaus"
+
+#: decorationbutton.cpp:305
+#, kde-format
+msgid "Shade"
+msgstr "Rullaa"
+
+#: decorationbutton.cpp:308
+#, kde-format
+msgid "Don't keep below"
+msgstr "Älä pida alinna"
+
+#: decorationbutton.cpp:310
+#, kde-format
+msgid "Keep below"
+msgstr "Pidä alinna"
+
+#: decorationbutton.cpp:313
+#, kde-format
+msgid "Don't keep above"
+msgstr "Älä pidä ylinnä"
+
+#: decorationbutton.cpp:315
+#, kde-format
+msgid "Keep above"
+msgstr "Pidä ylinnä"

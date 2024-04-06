@@ -1,0 +1,93 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdecoration package.
+#
+# Stelios <sstavra@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdecoration\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-12 02:28+0200\n"
+"PO-Revision-Date: 2020-09-18 20:29+0300\n"
+"Last-Translator: Stelios <sstavra@gmail.com>\n"
+"Language-Team: Greek <kde-i18n-el@kde.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#: decorationbutton.cpp:282
+#, kde-format
+msgid "Menu"
+msgstr "Μενού"
+
+#: decorationbutton.cpp:284
+#, kde-format
+msgid "Application menu"
+msgstr "Μενού εφαρμογής"
+
+#: decorationbutton.cpp:287
+#, kde-format
+msgid "On one desktop"
+msgstr "Σε μία επιφάνεια εργασίας"
+
+#: decorationbutton.cpp:289
+#, kde-format
+msgid "On all desktops"
+msgstr "Σε όλες τις επιφάνειες εργασίας"
+
+#: decorationbutton.cpp:291
+#, kde-format
+msgid "Minimize"
+msgstr "Ελαχιστοποίηση"
+
+#: decorationbutton.cpp:294
+#, kde-format
+msgid "Restore"
+msgstr "Επαναφορά"
+
+#: decorationbutton.cpp:296
+#, kde-format
+msgid "Maximize"
+msgstr "Μεγιστοποίηση"
+
+#: decorationbutton.cpp:298
+#, kde-format
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: decorationbutton.cpp:300
+#, kde-format
+msgid "Context help"
+msgstr "Βοήθεια στο κείμενο"
+
+#: decorationbutton.cpp:303
+#, kde-format
+msgid "Unshade"
+msgstr "Αναίρεση σκίασης"
+
+#: decorationbutton.cpp:305
+#, kde-format
+msgid "Shade"
+msgstr "Σκίαση"
+
+#: decorationbutton.cpp:308
+#, kde-format
+msgid "Don't keep below"
+msgstr "Να μη μείνει από κάτω"
+
+#: decorationbutton.cpp:310
+#, kde-format
+msgid "Keep below"
+msgstr "Να μείνει από κάτω"
+
+#: decorationbutton.cpp:313
+#, kde-format
+msgid "Don't keep above"
+msgstr "Να μη μείνει από πάνω"
+
+#: decorationbutton.cpp:315
+#, kde-format
+msgid "Keep above"
+msgstr "Να μείνει από πάνω"
